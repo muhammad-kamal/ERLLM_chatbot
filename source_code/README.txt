@@ -1,8 +1,8 @@
 ==== Code setup requirements ====
 1- Download ollama desktop application: https://ollama.com/download/windows
-2- Download Python programming language: https://www.python.org/downloads/
+2- Download Python programming language: https://www.python.org/downloads/   needed version = Python 3.11.7
 3- install important python libraries : 
-   pip install langchain==0.2.12 langchain-core==0.2.29 langchain-community==0.2.10 langchain-ollama==0.1.1 streamlit==1.28.0 pandas==2.0.3 sentence-transformers==2.2.2 numpy==1.24.3 ollama==0.1.3
+   pip install langchain==0.2.12 langchain-core==1.2.4 langchain-community==0.4.1 langchain-ollama==0.1.1 streamlit==1.51.0 pandas==2.3.3 sentence-transformers==5.1.2 numpy==1.26.4 ollama==0.6.0
 4- install LLM models using Ollama : 
    ollama pull phi3.5:latest
    ollama pull gemma2:2b
