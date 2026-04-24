@@ -1,6 +1,6 @@
 ==== Code setup requirements ====
 1- Download ollama desktop application: https://ollama.com/download/windows
-2- Download Python programming language: https://www.python.org/downloads/   recommended version = Python 3.11.7
+2- Download Python programming language: https://www.python.org/downloads/   needed version = Python 3.11.7
 3- install important python libraries : 
 pip install streamlit==1.51.0
 pip install langchain-community==0.4.1
@@ -25,3 +25,4 @@ terminal 2 :
 - Upload txt file in the input field in the interface bottom left(example here data.txt).
 - Choose the workflow from the drop down list in the left side of the interface.
 
+note: you might write "py -m" before each command of installing libraries or even run streamlit.
