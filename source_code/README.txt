@@ -25,4 +25,4 @@ terminal 2 :
 - Upload txt file in the input field in the interface bottom left(example here data.txt).
 - Choose the workflow from the drop down list in the left side of the interface.
 
-note: you might write "py -m" before each command of installing libraries or even run streamlit.
+note: you might write "py -m" before each command of installing libraries or even to run streamlit.
